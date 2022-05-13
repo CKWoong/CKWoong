@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align=center>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=70&duration=6500&color=8B9AF0B6&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&width=600&height=120&lines=Hi+there%2C+I'm+KiWoong.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=70&duration=6500&color=8B9AF0B6&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&width=600&height=120&lines=Welcome+to%2C+My+Git.)](https://git.io/typing-svg)
  
 <!-- Hits -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCKWoong%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
